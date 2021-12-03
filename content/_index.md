@@ -1,6 +1,6 @@
 ---
 title: Home
-call_to_action: Map
+call_to_action: Blog
 large_header: true
 menu:
   footer:

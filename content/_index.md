@@ -1,7 +1,7 @@
 ---
 title: Home
-call_to_action: Blog
-large_header: true
+call_to_action: Contact
+large_header: false
 menu:
   footer:
     weight: 1

@@ -1,7 +1,7 @@
 ---
 title: A fancy lorem ipsum blog post
 date: 2021-12-03T00:00:00Z
-categories: lorem-ipsum
+categories: '- lorem ipsum'
 author: Justin Parsons
 image: /uploads/daniel-barnes-rkdlltyjm5g-unsplash.jpg
 draft: false

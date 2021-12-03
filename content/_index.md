@@ -7,8 +7,8 @@ menu:
     weight: 1
 testimonials:
   - message: >-
-      Justice Law are the best of the best. Being local, they care about people
-      and have strong ties to the community.
+      Justice Law are the very best of the best. Being local, they care about
+      people and have strong ties to the community.
     image: https://www.fillmurray.com/60/60?a=.png
     name: Peter Rottenburg
   - message: >-

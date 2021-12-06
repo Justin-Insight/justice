@@ -29,10 +29,6 @@ _options:
 
 This is the *Justice* template from [CloudCannon](https://cloudcannon.com/). Justice is strong foundation for the web presence of a law firm or business. It’s filled with fictitious example content to get you started.
 
-&nbsp;
-
 Justice Law is professional representation. Practicing for over 50 years, our team have the knowledge and skills to get you results.
-
-&nbsp;
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
